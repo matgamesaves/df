@@ -1,0 +1,2 @@
+WARNING: Could not determine installed graphics, tileset is curses_640x300.png/curses_square_16x16.png
+WARNING: Could not determine installed graphics, tileset is curses_640x300.png/curses_square_16x16.png

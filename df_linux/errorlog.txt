@@ -1,0 +1,1 @@
+path fail: dwarf,Construct Building,79,72,172 -> 79,115,172: Id #12592:Path Goal Main Job Building:Station Wagon at 121,119,176

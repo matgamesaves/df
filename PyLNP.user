@@ -2,8 +2,8 @@
   "updateDays": 1, 
   "nextUpdate": 1453915310.958126, 
   "terminal": "", 
-  "tkgui_height": 677, 
+  "tkgui_height": 1146, 
   "downloadBaselines": 1, 
-  "tkgui_width": 444, 
+  "tkgui_width": 958, 
   "use_dfhack": true
 }

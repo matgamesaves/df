@@ -312,3 +312,929 @@ The weather has cleared.
 ** Starting New Outpost **
 You have struck white chalcedony!
 The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Ecamo Ewä (The Universes of Enchantment) at coordinates (95,13)
+Loaded the fortress Rakustvathez (Tombsvirgins), colonized by the group Geshud Torad (The Fortress of Bodies) of the civilization Bâmbulaban (The Mechanical Constructs).
+It has started raining.
+The weather has cleared.
+It has started raining.
+The weather has cleared.
+You have struck cinnamon grossular!
+You have struck hornblende!
+It is now summer.
+It has started raining.
+You have struck milk quartz!
+You have struck white chalcedony!
+Minkot Niltorad, Miner cancels Dig Channel: Dangerous terrain.
+The weather has cleared.
+You have struck milk quartz!
+Bomrek ïnulîsir, Farmer cancels Store Item in Stockpile: Could not find path.
+Zulban Sirablikot, Metalsmith cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+äzum Olonkir, expedition leader cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Up/Down Stair.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+äzum Olonkir, expedition leader cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Up/Down Stair.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+x58
+x59
+x60
+x61
+x62
+x63
+x64
+x65
+x66
+x67
+x68
+x69
+x70
+x71
+x72
+x73
+x74
+x75
+x76
+x77
+x78
+x79
+Zulban Sirablikot, Metalsmith cancels Store Item in Stockpile: Could not find path.
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+x58
+x59
+x60
+x61
+x62
+x63
+x64
+x65
+x66
+x67
+x68
+x69
+x70
+x71
+x72
+x73
+x74
+x75
+x76
+x77
+x78
+x79
+x80
+x81
+x82
+x83
+x84
+x85
+x86
+x87
+x88
+x89
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+x4
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+x58
+x59
+x60
+x61
+x62
+x63
+x64
+x65
+x66
+x67
+x68
+x69
+x70
+x71
+x72
+x73
+x74
+x75
+x76
+x77
+x78
+x79
+x80
+x81
+x82
+x83
+x84
+x85
+x86
+x87
+x88
+x89
+x90
+x91
+x92
+x93
+x94
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+Vabìk DelerkÑl†n, Planter cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+x4
+Zulban Sirablikot, Metalsmith cancels Store Item in Stockpile: Could not find path.
+Vabìk DelerkÑl†n, Planter cancels Store Item in Stockpile: Could not find path.
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Store Item in Stockpile: Could not find path.
+äzum Olonkir, expedition leader cancels Eat: Could not find path.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+x58
+x59
+x60
+x61
+x62
+x63
+x64
+x65
+x66
+x67
+x68
+x69
+x70
+x71
+x72
+x73
+x74
+x75
+x76
+x77
+x78
+x79
+x80
+x81
+x82
+x83
+x84
+x85
+x86
+x87
+x88
+x89
+x90
+x91
+x92
+x93
+x94
+x95
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+Vabìk DelerkÑl†n, Planter cancels Store Item in Stockpile: Could not find path.
+Aban Ildomkñbuk, Woodworker cancels Store Item in Stockpile: Could not find path.
+Lorbam Nosåmåton has created a masterpiece diorite mechanisms!
+Some migrants have arrived.
+Minkot Niltorad has created a masterpiece diorite floodgate!
+The furnace operator has become enraged!
+Minkot Niltorad, Miner cancels Construct Building: Could not find path.
+The dwarves suspended the construction of diorite Floodgate.
+It has started raining.
+Lorbam Nosåmåton, Mechanic cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of diorite Lever.
+The weather has cleared.
+The chinchilla jumps away from The flying ({iron bolt})!
+Udil Kuletabod, Tanner: The battle rages...  I feel no terror.
+The chinchilla jumps away from The flying ({iron bolt})!
+The flying ({iron bolt}) strikes the chinchilla in the right rear leg and the severed part sails off in an arc!
+The chinchilla jumps away from The flying ({iron bolt})!
+The flying ({iron bolt}) strikes the chinchilla in the lower body, tearing apart the muscle and tearing apart the left kidney!
+An artery has been opened by the attack!
+The chinchilla is propelled away by the force of the blow!
+The chinchilla's left rear leg skids along the ground, bruising the muscle!
+The chinchilla slams into an obstacle!
+The chinchilla stands up.
+Udil Kuletabod, Tanner cancels Return Kill: Interrupted by combat.
+Udil Kuletabod, Tanner: I must withdraw!
+Udil Kuletabod, Tanner: Help!  Save me!
+The flying ({iron bolt}) strikes the chinchilla in the right rear leg, tearing apart the fat!
+Udil Kuletabod, Tanner: I have improved my crossbow.  That was very satisfying!
+Udil Kuletabod, Tanner: I have improved my archery.  That was very satisfying!
+The flying ({iron bolt}) strikes the chinchilla in the head, tearing apart the skin!
+The chinchilla is propelled away by the force of the blow!
+The chinchilla's left rear leg skids along the ground, bruising the muscle!
+The chinchilla slams into an obstacle!
+The chinchilla stands up.
+The flying ({iron bolt}) strikes the chinchilla in the upper body, tearing apart the muscle and tearing apart the right lung!
+The chinchilla is having trouble breathing!
+The chinchilla is propelled away by the force of the blow!
+The chinchilla is no longer stunned.
+The chinchilla's left rear leg skids along the ground, bruising the muscle!
+The chinchilla slams into an obstacle!
+Vabìk DelerkÑl†n, Planter cancels Give Water: Need empty bucket.
+The flying ({iron bolt}) strikes the chinchilla in the left front leg and the severed part sails off in an arc!
+Autumn has come.
+The flying ({iron bolt}) strikes the chinchilla in the head, tearing apart the fat!
+The chinchilla is propelled away by the force of the blow!
+The chinchilla's upper body skids along the ground, bruising the muscle!
+The chinchilla slams into an obstacle!
+The chinchilla is no longer stunned.
+The flying ({iron bolt}) strikes the chinchilla in the left front leg and the severed part sails off in an arc!
+It has started raining.
+The wolverine has become enraged!
+The wolverine attacks the tanner but She jumps away!
+The wolverine bites the tanner in the upper body, bruising the muscle through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth on the tanner's upper body.
+The wolverine bites the tanner in the lower body, bruising the fat through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth from The tanner's lower body!
+The wolverine attacks the tanner but She jumps away!
+The wolverine bites the tanner in the right lower arm, bruising the skin through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth from The tanner's right lower arm!
+The wolverine attacks the tanner but She jumps away!
+The wolverine bites the tanner in the left upper arm, bruising the fat through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth on the tanner's left upper arm.
+The flying ({iron bolt}) strikes the wolverine in the tail, fracturing the bone!
+A tendon has been torn!
+The wolverine attacks the tanner but She jumps away!
+The wolverine bites the tanner in the right upper arm, bruising the fat through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth from The tanner's right upper arm!
+The wolverine misses the tanner!
+The wolverine attacks the tanner but She jumps away!
+The wolverine misses the tanner!
+The wolverine attacks the tanner but She jumps away!
+The wolverine misses the tanner!
+The flying ({iron bolt}) strikes the wolverine in the right rear leg, chipping the bone!
+A tendon has been torn!
+The wolverine attacks the tanner but She jumps away!
+The wolverine misses the tanner!
+The flying ({iron bolt}) strikes the wolverine in the right front leg, chipping the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The wolverine falls over.
+The wolverine bites the tanner in the left upper arm, bruising the skin through the (cave spider silk cloak)!
+The wolverine attacks the tanner but She jumps away!
+The wolverine misses the tanner!
+The wolverine attacks the tanner but She jumps away!
+The wolverine scratches the tanner in the left ear, tearing the cartilage through the (cave spider silk cloak)!
+The wolverine attacks the tanner but She jumps away!
+The wolverine bites the tanner in the right lower arm, bruising the fat through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth on the tanner's right lower arm.
+The wolverine attacks the tanner but She jumps away!
+The wolverine misses the tanner!
+The flying ({iron bolt}) strikes the wolverine in the left front leg, chipping the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The wolverine bites the tanner in the left lower arm, bruising the fat through the (cave spider silk cloak)!
+The wolverine latches on firmly!
+The tanner breaks the grip of The wolverine's teeth on the tanner's left lower arm.
+The wolverine attacks the tanner but She jumps away!
+The wolverine scratches the tanner in the left eyelid, bruising the skin through the (cave spider silk cloak)!
+The wolverine misses the tanner!
+The wolverine attacks the tanner but She jumps away!
+Wolverine is no longer enraged.
+The flying ({iron bolt}) strikes the wolverine in the lower body, tearing the muscle and tearing the stomach!
+The flying ({iron bolt}) strikes the wolverine in the upper body, tearing the muscle and tearing the liver!
+The ({iron bolt}) has lodged firmly in the wound!
+The flying ({iron bolt}) strikes the wolverine in the lower body, tearing the muscle and tearing the right kidney!
+The ({iron bolt}) has lodged firmly in the wound!
+The flying ({iron bolt}) strikes the wolverine in the upper body, tearing the muscle and tearing the left lung!
+The wolverine is having trouble breathing!
+The ({iron bolt}) has lodged firmly in the wound!
+Udil Kuletabod, Tanner cancels Hunt: No ammunition.
+Udil Kuletabod, Tanner: I must withdraw!
+Udil Kuletabod, Tanner: Help!  Save me!
+Udil Kuletabod, Tanner: I must withdraw!
+Udil Kuletabod, Tanner: Help!  Save me!
+The weather has cleared.
+The wolverine has become enraged!
+Wolverine is no longer enraged.
+Stray Dog (Tame) has given birth to a puppy.
+The outpost liaison Likot Rigïthg£r from Bâmbulaban has arrived.
+A caravan from Bâmbulaban has arrived.
+Their wagons have bypassed your inaccessible site.
+Stray Ewe (Tame) has given birth to a lamb.
+Merchants have arrived and are unloading their goods.
+The wolverine has become enraged!
+The stray dog scratches the wolverine in the right front leg, lightly tapping the target!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog misses the wolverine!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the left rear leg, tearing the fat and bruising the muscle!
+The wolverine attacks the stray dog but She jumps away!
+The wolverine misses the stray dog!
+The stray dog scratches the wolverine in the upper body, denting the skin and bruising the muscle and bruising the right lung!
+The stray dog scratches the wolverine in the left rear paw, tearing the fat and bruising the muscle!
+The wolverine scratches the stray dog in the left rear leg, tearing the skin!
+The stray dog scratches the wolverine in the lower body, denting the skin and bruising the muscle and bruising the guts!
+The wolverine attacks the stray dog but She jumps away!
+The wolverine misses the stray dog!
+The stray dog misses the wolverine!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the upper body, denting the skin and bruising the muscle and bruising the liver!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog misses the wolverine!
+The stray dog scratches the wolverine in the nose, denting the skin!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the left rear leg, denting the skin and bruising the fat!
+The wolverine scratches the stray dog in the right front leg, tearing the fat and bruising the muscle!
+The stray dog scratches the wolverine in the neck, tearing the fat and bruising the muscle!
+The wolverine scratches the stray dog in the right rear paw, tearing the fat and bruising the muscle!
+The stray dog scratches the wolverine in the fourth left rear toe, but the attack glances away!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the left rear paw, denting the skin and bruising the muscle!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the right front paw, tearing the fat and bruising the muscle!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the left ear and the severed part sails off in an arc!
+The wolverine scratches the stray dog in the right rear paw, tearing the skin!
+The stray dog scratches the wolverine in the right front paw, tearing the fat and bruising the muscle!
+The wolverine scratches the stray dog in the upper body, tearing the fat and bruising the muscle!
+The stray dog scratches the wolverine in the left front paw, tearing the fat!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the left rear leg, denting the skin and bruising the muscle!
+The stray dog scratches the wolverine in the left rear leg, tearing the fat!
+The wolverine misses the stray dog!
+The stray dog scratches the wolverine in the left rear paw, denting the skin!
+The wolverine misses the stray dog!
+The stray dog charges at the wolverine!
+The stray dog collides with the wolverine!
+The wolverine is knocked over and tumbles backward!
+The wolverine stands up.
+The wolverine misses the stray dog!
+The stray dog scratches the wolverine in the left front leg, tearing the fat and bruising the muscle!
+The wolverine collapses and falls to the ground from over-exertion.
+The wolverine stands up.
+The wolverine is no longer stunned.
+The wolverine misses the stray dog!
+The stray dog scratches the wolverine in the second right rear toe, but the attack glances away!
+The wolverine collapses and falls to the ground from over-exertion.
+The wolverine stands up.
+The wolverine attacks the stray dog but She jumps away!
+The wolverine collapses and falls to the ground from over-exertion.
+The stray dog scratches the wolverine in the left rear leg, tearing the fat and bruising the muscle!
+The wolverine stands up.
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the right rear paw, tearing the fat and bruising the muscle!
+The wolverine collapses and falls to the ground from over-exertion.
+The wolverine scratches the stray dog in the right rear leg, tearing the fat and bruising the muscle!
+Wolverine is no longer enraged.
+The wolverine stands up.
+The wolverine attacks the stray dog but She jumps away!
+The wolverine collapses and falls to the ground from over-exertion.
+The stray dog scratches the wolverine in the right rear leg, tearing the fat and bruising the muscle!
+The wolverine stands up.
+The stray dog misses the wolverine!
+The wolverine scratches the stray dog in the head, tearing the fat and bruising the muscle!
+The stray dog has been stunned!
+The wolverine scratches the stray dog in the right front paw, denting the skin and bruising the muscle!
+The stray dog is no longer stunned.
+The wolverine has become enraged!
+The wolverine attacks the stray dog but She jumps away!
+The wolverine misses the stray dog!
+The stray dog misses the wolverine!
+The stray dog scratches the wolverine in the left front leg, tearing the fat and bruising the muscle!
+The wolverine misses the stray dog!
+The wolverine collapses and falls to the ground from over-exertion.
+The wolverine stands up.
+The wolverine attacks the stray dog but She jumps away!
+The wolverine collapses and falls to the ground from over-exertion.
+The stray dog scratches the wolverine in the left front leg, tearing the fat and bruising the muscle!
+The wolverine stands up.
+The wolverine scratches the stray dog in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The stray dog looks sick!
+The stray dog scratches the wolverine in the right front leg, lightly tapping the target!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog scratches the wolverine in the left front leg, denting the skin and bruising the muscle!
+The stray dog vomits.
+The wolverine scratches the stray dog in the right rear paw, tearing the fat and bruising the muscle!
+The stray dog misses the wolverine!
+The wolverine attacks the stray dog but She jumps away!
+The wolverine scratches the stray dog in the head, tearing the fat and bruising the muscle!
+The wolverine scratches the stray dog in the left front leg, tearing the fat!
+The wolverine scratches the stray dog in the right front paw, tearing the fat!
+The stray dog retches.
+The wolverine attacks the stray dog but She jumps away!
+The wolverine scratches the stray dog in the left front paw, tearing the fat!
+The wolverine scratches the stray dog in the upper body, tearing the fat and bruising the muscle!
+The wolverine scratches the stray dog in the tail, tearing the fat and bruising the muscle!
+The wolverine scratches the stray dog in the right front leg, tearing the fat!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog misses the wolverine!
+The wolverine attacks the stray dog but She jumps away!
+The stray dog vomits.
+The stray dog scratches the wolverine in the right rear paw, denting the skin and bruising the fat!
+The wolverine scratches the stray dog in the lower body, tearing the fat!
+The stray dog retches.
+The stray dog misses the wolverine!
+The wolverine scratches the stray dog in the lower body, tearing the fat!
+The stray dog collapses and falls to the ground from over-exertion.
+Wolverine is no longer enraged.
+The stray dog stands up.
+The wolverine scratches the stray dog in the first left front toe, but the attack glances away!
+The stray dog misses the wolverine!
+The stray dog collapses and falls to the ground from over-exertion.
+The stray dog stands up.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
+The stray dog retches.
+The stray dog vomits.
